@@ -10,7 +10,7 @@ spring:
     password: 123456
     url: jdbc:mysql://192.168.56.101:3306/sell?characterEncoding=utf-8&useSSL=false
     username: root
-env: uuuuuu
+env: qqqqqqqqqqqq
 girl:
-  name: miku
-  age: 90
+  name: wwwwwwwwww
+  age: 34
