@@ -11,9 +11,7 @@ spring:
     url: jdbc:mysql://192.168.56.101:3306/sell?characterEncoding=utf-8&useSSL=false
     username: root
 env:
-  jythghgn
+  ppppppppppp
 girl:
-  name:
-    Amy
-  age:
-    56
+  name: Amy
+  age: 56
