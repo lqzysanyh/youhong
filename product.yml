@@ -12,5 +12,5 @@ spring:
     username: root
 env: yyyyyyy
 girl:
-  name: Amy
-  age: 23
+  name: miku
+  age: 90
