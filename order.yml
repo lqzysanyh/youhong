@@ -6,6 +6,11 @@ spring:
     url: jdbc:mysql://192.168.56.101:3306/sell?characterEncoding=utf-8&useSSL=false
     username: root
     password: 123456
+  rabbitmq:
+    host: localhost
+    port: 5762
+    username: guest
+    password: guest
 eureka:
   client:
     service-url:
