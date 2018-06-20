@@ -1,13 +1,13 @@
 zuul:
   routes:
   # /myProduct/product/list -> /product/product/list
-#    myProduct:
+    myProduct:
 #      path: /myProduct/**
 #      serviceId: product
 #      设置允许访问cookie
 #      sensitiveHeaders:
 #  #简洁写法
-    product: /myProduct/**
+      product: /myProduct/**
 #  #排除某些路由
 #  ignored-patterns:
 #    - /**/product/listForOrder
